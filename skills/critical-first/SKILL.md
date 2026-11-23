@@ -1,5 +1,6 @@
 ---
 name: critical-first
+description: 漏洞挖掘优先级：先 pre-auth 与越权，再注入/SSRF/竞态；禁止仅凭 banner 报洞。
 ---
 Priority order, highest first. Do not stop at banner matches.
 

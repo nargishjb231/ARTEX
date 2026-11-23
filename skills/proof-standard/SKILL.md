@@ -1,5 +1,6 @@
 ---
 name: proof-standard
+description: 写 finding 前的证明标准：请求+响应+影响+反证，且必须绑定流量证据。
 ---
 A finding is only writable when all of these hold:
 

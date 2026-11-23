@@ -1,5 +1,6 @@
 ---
 name: novel-surface
+description: 从前端 JS bundle 与路由重建 API 面，挖扫描器漏掉的端点与二阶盲区。
 ---
 Scanners miss what the frontend tells you. Do this first on any SPA.
 
