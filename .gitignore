@@ -58,3 +58,14 @@ Thumbs.db
 /bench/
 /Dockerfile.bench
 /Dockerfile.bench.v2
+# --- local secrets / runtime (Termux + Ubuntu) ---
+.env
+config.json
+jwt.key
+keys/
+data/
+backups/
+dist/
+node_modules/
+web/out/
+server/webui/dist/

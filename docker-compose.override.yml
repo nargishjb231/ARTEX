@@ -1,0 +1,8 @@
+services:
+  artex:
+    ports: ["127.0.0.1:8787:8787"]
+    mem_limit: 8g
+    environment:
+      - TZ=Asia/Dhaka
+  postgres:
+    ports: ["127.0.0.1:5432:5432"]
